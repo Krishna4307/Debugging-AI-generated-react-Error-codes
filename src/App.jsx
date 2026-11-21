@@ -4,6 +4,8 @@ import Task3 from "./DAY-02/task3";
 import Task4 from "./DAY-02/task4";
 import Task5 from "./DAY-03/task5";
 import Task6 from "./DAY-03/task6";
+import Task7 from "./DAY-04/task7";
+import Task8 from "./DAY-04/task8";
 function App(){
     return(
         <>
@@ -12,7 +14,9 @@ function App(){
            {/* <Task3/> */}
            {/* <Task4/> */}
            {/* <Task5/> */}
-            <Task6/>
+           {/* <Task6/> */}
+           {/* <Task7/> */}
+           <Task8/>
         </>
     )
 }
